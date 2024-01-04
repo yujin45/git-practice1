@@ -1,9 +1,0 @@
-# 명세 파일로 주로 yaml을 사용함
-team: Tigers
-
-manager: John
-
-members:
-- Linda
-- William
-- David
